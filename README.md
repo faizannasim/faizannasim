@@ -70,30 +70,6 @@ console.log("Welcome to my digital world! 🚀");
 
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="90px" alt="UI/UX"/>
-      <br><strong>UI/UX Design</strong>
-      <br><em>Creating intuitive interfaces</em>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="90px" alt="Responsive"/>
-      <br><strong>Responsive Design</strong>
-      <br><em>Mobile-first approach</em>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="90px" alt="Performance"/>
-      <br><strong>Performance</strong>
-      <br><em>Optimized solutions</em>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="90px" alt="Innovation"/>
-      <br><strong>Innovation</strong>
-      <br><em>Cutting-edge tech</em>
-    </td>
-  </tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -120,48 +96,60 @@ console.log("Welcome to my digital world! 🚀");
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100px"/>
+        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cHY4MTgwN3Q3M2Z6eG16MXk2Z20yeHlyMzA4bTVndTlzamJ2eHp4MCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Irb20yXtA2QStkUnrE/giphy.gif" width="200px"/>
         <br><strong>🔭 Working On</strong>
-        <br><code>Formula1 Dashboard Project</code>
-        <br><em>Real-time racing analytics</em>
+        <br><code>Formula1  Project</code>
       </td>
       <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100px"/>
+        <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3dnYjdheml1OTZ0YjM5d2NvOXZ0a25wNGk0bGN3MnJtcDdubzl1YSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="200px"/>
         <br><strong>🌱 Learning</strong>
         <br><code>Data Structures & Algorithms</code>
         <br><em>Strengthening problem-solving</em>
       </td>
       <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100px"/>
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWo3enpxbG0wa3d6MXNidnZtNnRlNXFpYmIybGgxbGpuMGVoY2hkdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="200px"/>
         <br><strong>🎯 Next Goal</strong>
         <br><code>Full-Stack Development</code>
         <br><em>Expanding skill horizons</em>
       </td>
     </tr>
   </table>
-</div>
+</div
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40"> Featured Projects
+## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40"> Featured Projects
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400" />
+
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNhZWp3Z2Y1eW1zMXRyaXp5eHJ5MzBkNHl3dXRlMmFicHR3NG9pbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7FfMZBc0TGrKq9bivj/giphy.gif" width="400" />
   
-  **🏎️ Formula1 Racing Dashboard**
+  <h3>🏎️ Formula1 Racing Dashboard</h3>
   
-  A comprehensive web application featuring real-time race data, interactive charts, and immersive user experience. Built with React.js and modern web technologies.
+  <p style="font-size:16px; max-width:600px; margin:auto; text-align:center;">
+    A comprehensive web application featuring real-time race data, interactive charts, and immersive user experience.<br/>
+    - Users must register before they can log in and navigate to the dashboard.<br/>
+    - The dashboard includes API calls to manage app users, allowing you to add new users and update existing ones using modals.<br/>
+    <code>React.js</code> • <code>Tailwind CSS</code> • <code>Local Storage</code> • <code>REST APIs</code> • <code>Responsive Design</code>
+  </p>
+
+  <br/>
+
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDkxcDB0M2c4eHU2aTh5cTdxdjUxeTJ3dzliNm9ucWNsaWZjYWlidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t0virGpgSlp4mkfiXq/giphy.gif" width="400" />
   
-  `React.js` • `Tailwind CSS` • `Chart.js` • `REST APIs` • `Responsive Design`
+  <h3>🔒 SecureSignIn</h3>
+  
+  <p style="font-size:16px; max-width:600px; margin:auto; text-align:center;">
+    React, React Router, Tailwind CSS, localStorage, fake Platzi API<br/>
+    - Built a secure React login system with email-based access control for protected dashboard routes<br/>
+    - Implemented route protection, conditional rendering, and logout using React Router and localStorage<br/>
+    - Designed a responsive login UI with real-time validation and user feedback using Tailwind CSS
+  </p>
+    <code>React.js</code> • <code>Tailwind CSS</code> • <code>Local Storage</code> • <code>Responsive Design</code>
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-b552-ba2ba23c2ed2.gif" width="40"> Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faizannasim&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
