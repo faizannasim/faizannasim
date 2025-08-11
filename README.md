@@ -25,7 +25,6 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"> About Me
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 
 ```javascript
 const faizan = {
@@ -84,9 +83,7 @@ console.log("Welcome to my digital world! 🚀");
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizannasim&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=70a5fd&fire=ffad5a&currStreakLabel=70a5fd" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizannasim&custom_title=Faizan's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
