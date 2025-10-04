@@ -48,6 +48,11 @@ const techStack = {
 </div>
 
 ## 🚀 Featured Projects
+### Ask Ai
+> Developed a dynamic AI-powered chat application with real-time question handling, persistent Local Storage
+history, and Google API integration for intelligent responses.
+
+**Stack:** `React.js` `Tailwind CSS` `Google API` `Local Storage` 
 
 ### 🏎️ Formula1 Racing Dashboard
 > Real-time race analytics with comprehensive user management system
