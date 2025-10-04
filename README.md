@@ -18,7 +18,6 @@ Passionate about creating **seamless user experiences** with clean, modern code.
 
 🔭 **Currently Building:** Billmate
 
-
 🌱 **Learning:** Data Structures & Algorithms  
 🎯 **Next Goal:** Full-Stack Development  
 ✨ **Motto:** Code with purpose, design with passion
