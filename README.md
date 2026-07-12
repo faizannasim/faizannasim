@@ -1,62 +1,57 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=130&section=header&text=Faizan%20Nasim&fontSize=32&fontColor=ffffff&fontAlignY=65&desc=Frontend%20Developer%20%C2%B7%20%F0%9F%87%AE%F0%9F%87%B3%20India&descSize=14&descAlignY=85" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizannasim)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/faizannasim)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:faizannasim59@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://faizannasim.vercel.app)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=120&section=header&text=faizan_nasim&fontColor=39FF14&fontSize=34&fontAlignY=55&animation=fadeIn&desc=%3E%20frontend%20developer%20~%20india&descAlignY=78&descColor=39FF14&descSize=14" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=39FF14&background=000000&center=true&vCenter=true&width=560&height=50&lines=React.js+%C2%B7+JavaScript+(ES6%2B)+%C2%B7+Tailwind+CSS;REST+APIs+%C2%B7+FastAPI+%C2%B7+Python;building+billmate+~+invoice+platform" />
+
+<br><br>
+
+<a href="mailto:faizannasim59@gmail.com"><img src="https://img.shields.io/badge/email-000000?style=flat-square&logo=gmail&logoColor=39FF14" /></a>
+<a href="https://linkedin.com/in/faizannasim"><img src="https://img.shields.io/badge/linkedin-000000?style=flat-square&logo=linkedin&logoColor=39FF14" /></a>
+<a href="https://github.com/faizannasim"><img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=39FF14" /></a>
+<a href="https://faizannasim.vercel.app"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=vercel&logoColor=39FF14" /></a>
 
 </div>
 
-<br/>
+<br>
 
-```yaml
-Currently  : Building Billmate — Invoice platform with PDF export & voice narration
-Learning   : DSA · Node.js · Express.js
-Goal       : Full-Stack Development
+```bash
+faizan@dev:~$ cat about.txt
+> frontend developer building fast, accessible, api-driven web apps
+> currently shipping: billmate — invoice tool w/ pdf export + voice input
+> learning: node.js · express · dsa
+
+faizan@dev:~$ ls stack/
+react.js  javascript  tailwind  shadcn-ui  framer-motion
+python    fastapi     rest-apis sql        git
 ```
 
-<br/>
-
-**🛠 Stack**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-
-<br/>
-
-**🚀 Projects**
-
-| | Project | Stack | Highlights |
-|---|---|---|---|
-| ⚡ | **[BillMate](https://github.com/faizannasim/billmate)** | React · Tailwind · Web Speech API | PDF export · QR code · Voice narration · `100/100` Lighthouse |
-| 🤖 | **[Ask AI](https://github.com/faizannasim/ask-ai)** | React · Tailwind · Gemini API | Real-time chat · Persistent history · `100/100` Lighthouse |
-| 🏎️ | **[F1Arena](https://github.com/faizannasim/f1arena)** | React · Tailwind · REST APIs | 1000+ data points · Live race data · `100/100` Best Practices |
-| 🌐 | **[Portfolio](https://github.com/faizannasim/portfolio)** | React · Tailwind · Framer Motion | Animated UI · Mobile-first · `94` Accessibility |
-
-<br/>
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=faizannasim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizannasim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=typescript" width="49%" />
+**// projects**
 
-<br/>
+| | repo | stack | notes |
+|:---:|---|---|---|
+| ⚡ | [`billmate`](https://github.com/faizannasim/billmate) | react · tailwind · web speech api | pdf export · qr code · `100/100` lighthouse |
+| 🤖 | [`ask-ai`](https://github.com/faizannasim/ask-ai) | react · tailwind · gemini api | real-time chat · persistent history |
+| 🏎️ | [`f1arena`](https://github.com/faizannasim/f1arena) | react · tailwind · rest apis | live race dashboard · 1000+ data points |
+| 🌐 | [`portfolio`](https://github.com/faizannasim/portfolio) | react · tailwind · framer motion | animated ui · `94` accessibility |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizannasim&theme=tokyonight&hide_border=true&background=0d1117" width="70%" />
+<br>
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=faizannasim&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=c9c9c9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizannasim&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=c9c9c9" height="165"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=80&section=footer" width="100%"/>
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizannasim&theme=github-dark-blue&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="70%"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=70&section=footer" width="100%"/>
 
 </div>
