@@ -1,63 +1,133 @@
-<div align="center">
+<h1 align="center">Hi, I'm Faizan Nasim 👋</h1>
+<h3 align="center">Frontend Developer — React.js · JavaScript · REST APIs · Tailwind CSS</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=130&section=header&text=Faizan%20Nasim&fontSize=32&fontColor=ffffff&fontAlignY=65&desc=Frontend%20Developer%20%C2%B7%20%F0%9F%87%AE%F0%9F%87%B3%20India&descSize=14&descAlignY=85" width="100%"/>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/faizannasim)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/faizannasim)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:faizannasim59@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://faizannasim.vercel.app)
+<table>
+<tr>
+<td valign="top">
 
-</div>
-
-<br/>
-
-```yaml
-Currently  : Building Billmate — Invoice platform with PDF export & voice narration
-Learning   : DSA · Node.js · Express.js
-Goal       : Full-Stack Development
+```
+cccvvvuunnnnxxxrrjjffffttttfft///tt/\\/t///\\\\\\\\\\\\\\\///ttt
+ccccvvvvvuunnxxxrrrjjjxzLZmOCJYujffffrrxrjjft//////////ttttfffff
+zzzzcccvvvvuunnxxxncLd#%%8&W*ooopXvcvcvzJ0LXuftftttttttfffjjjjjr
+XzXzzzcccvvvvvucUObW$$@B$$@B$$B$$8#*o#adkaMMo0rjfjjjjjjjjrrrxxxx
+XXXXXXzzzczcczQbM%$$@&W%%B@B@@B$$$@@$$$B8%%8MW0xxxxxxxrrxxnnnnnn
+YYYXYXXXXzzzYqW@B%W8BMB$@$$$$@$$$$$$$$$$%8%&%@#Cvuunnnnnnnuuuvvv
+YYYYYYYXXXXX0B$%M%8@B%B$$%*b0YLpdppoha8$$$B&&@BaCvuuvuuvvvvvccvc
+UUYUYYYYYYYYd$@&&88BMW**wv\}?----+~__?|cd%$$$$@8wL0zccccvccczccc
+UUUUUYYYYYCo@$@%B%%BWob0v\{?_~<>ilI::":i[u#$@$$$%#&QccccczzzzzXX
+UJUUUUYULOp&$$$@B@$@$&bmzt{]-+~<ii!lI;;!~]jW$$$$$$W0zzXXXXXXXXXY
+JJUJJJLZwwp8$$$$@@@@@%bOv\[_<ii>!lI:,,;!<-[O@$$$$$%qOYXXXXYYYYYY
+JJJJCOwppbM$$$$$$$$$@&dY/1]_<ii>>>iI,":li~]c#$$$$$$$MLYYYYYUUUUJ
+JJCQwdkkkoB$$$$$$$$$%&#*oabZUuf|)jnxzJJJXccud$$$$$%a0JJUUUJJJJCJ
+QOwpbkhaa*8$$$$$$$@W**apwda#abLt{cqbo*dO0OmCm$$$$@wCJCCCJJCCCCCC
+qdbbkhaaao#&B$$$$&#hhM#kabQ0mmU<;]jZpoaZzCcfXb%$$%OCCCLCCCCCCLLL
+bkkkhhhao*##&@$$$opQUYUYzx\|xu|i;!>-|nut|{--}n#bkwQLLLLLLLQLLQQL
+bbkkhaoo*##MW&BWBkLr{+illl~)n)<,'^Ill;;;,",!+u#0QLQQQQQQQQQQQQQQ
+dbkkhao*##MWWW&nodCr1-~i!_rUQCr}-|j1>li!,",l<|X00000000000000000
+ddbkhhao##MMWW&0kqQYn/)1\zQpdbqJvrt{>;l~+++-?+X00OOO0OOOOO000000
+ddbhhao*#MMWW&8Bap0LUvv0pqOLUXr\|1{[1/nur){11(QOOOOOO0OOZZOOOOOO
+kkhaao*#MWWW&88%@&OLCXuCmpbdOJYcvrfuujfrt)1{rOZOZZmZZZZZmmZmmZZZ
+aooo**#MWW&&88%BB$MOJJUYurvC0LCJYut)]__{\\\x0OOOZmmwmwwwmmwmmmmm
+####MMWW&&&88%BB$$B8mCCLCv/tfjnnt)[]][1)|)cmZZmZOZmmmmwwmwwwwmww
+#MMMWW&&888%%B@@@wM$hw0QQLcf\1}{-~~-}|/f].iXLXXCZmZZZZmmmmmwwwww
+MWWW&&88%BBB@$$$ZtU&#dwmOZZmOLCCXucYXvruI  .I'.^<|Cmwwmwmmmmmwwm
+&&&8%%BB@$$$$&Wht\|vwobwmO0OZwqwmOCzntvj:   ,.   `;fULLLQOZwqqpw
+88%B@$$$@%MhCnJn\\(vXzakwZQCCCCUvr/|1tClni  ;    "I^.","^:!<?]1Y
+$$$$B&hQznt\\\tx\|(vu1t0bmLJYYvt(1{{(w1 f] ':    .ii`  ..    ' '
+Qf)1{}{)||(|()1\x\(rz\))r0QUXcnf({{(Qk:^t[ `` ..  ;_!`.     .^  
+  '`,:"l[)11{{{{|x(tx||)]]vvvnj/){{XkC^,Il?;  ''. .<+:.     .'  
+'..'::`.^>?][[[[]}/r))[~I_ct|||){{(X-`,;  :' '''.. ^?i.   ..'. .
+'...,I^...^I><_]+I"il?-+++\(]]]]]}v] "i  '..`....''.<-`   .''. .
+... ^l,. ...^..!-i". "!i+~li>>><~~\i'?;   .'. ...`^'I-:   '`''..
+....`;:`...''. .i_I'' ''`;I:^Iiiii~}-]`   '.  ..'''';!I   .``^. 
+....'l,''`'...  '~~:..  . `^'^!!!!+r|^   ..  .'..''"I"`.   .`"` 
+....'I"..`,,`... "_<"'    ....,!!+/|I...     '"`.`^,:'.,'   ."^.
+... ';"'. ."I:"`. :->,.   ..  .l-\?:..'`    .'^;:":"'..,>". .'^.
+... .::'....^;l,^' I-~"'...... "(_^''.`^'   .^`"il;^..'`i_l'..`.
 ```
 
-<br/>
+</td>
+<td valign="top">
 
-**🛠 Stack**
+```
+faizan@github
+-----------------------------------
+OS: ................ Frontend Engineering
+Host: ............... GEDU Services
+Uptime: ............. 1 yr professional exp.
+Role: ................ Frontend Developer
+IDE: ................. VS Code
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+Languages.Core: ..... JavaScript (ES6+), Python
+Languages.Web: ...... HTML5, CSS3
+Frontend: ........... React.js, Tailwind CSS,
+                       ShadCN UI, Bootstrap,
+                       Framer Motion
+Backend: ............ FastAPI, REST APIs, SQL
+Tools: ............... Git, GitHub, Postman,
+                       VS Code, Jira
 
-<br/>
+Focus: ............... UI/UX, Component
+                       Architecture, API
+                       Integration, A11y
 
-**🚀 Projects**
+-----------------------------------
+Email: ............... Faizannasim59@gmail.com
+LinkedIn: ............ linkedin.com/in/faizannasim
+GitHub: .............. github.com/FaizanNasim
+Portfolio: ........... faizannasim.dev
 
-| | Project | Stack | Highlights |
-|---|---|---|---|
-| ⚡ | **[BillMate](https://github.com/faizannasim/billmate)** | React · Tailwind · Web Speech API | PDF export · QR code · Voice narration · `100/100` Lighthouse |
-| 🤖 | **[Ask AI](https://github.com/faizannasim/ask-ai)** | React · Tailwind · Gemini API | Real-time chat · Persistent history · `100/100` Lighthouse |
-| 🏎️ | **[F1Arena](https://github.com/faizannasim/f1arena)** | React · Tailwind · REST APIs | 1000+ data points · Live race data · `100/100` Best Practices |
-| 🌐 | **[Portfolio](https://github.com/faizannasim/portfolio)** | React · Tailwind · Framer Motion | Animated UI · Mobile-first · `94` Accessibility |
 
-<br/>
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=faizannasim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizannasim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=typescript" width="49%" />
 
-<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizannasim&theme=tokyonight&hide_border=true&background=0d1117" width="70%" />
 
-<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=80&section=footer" width="100%"/>
 
-</div>
+
+
+
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🚀 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FaizanNasim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizanNasim&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FaizanNasim&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<br>
+
+## 📫 Connect with me
+
+<p align="center">
+  <a href="mailto:Faizannasim59@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/faizannasim"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://faizannasim.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
