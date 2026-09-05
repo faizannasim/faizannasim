@@ -1,126 +1,234 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=200&section=header&text=Faizan%20Nasim&fontColor=39FF14&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20%7C%20Building%20fast%2C%20accessible%20web%20apps&descAlignY=58&descColor=8effb0&descSize=16"/>
+# Faizan Nasim
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=React.js+%26+JavaScript+(ES6%2B);Tailwind+CSS+%26+shadcn%2Fui;FastAPI+%2B+Python+%2B+REST+APIs;Currently+building+%E2%86%92+billmate" />
+### AI Engineer · AI Agents · MCP · Python · Full-Stack Development
+
+Building AI-powered applications, agent workflows, and tools that connect LLMs with real-world data and services.
 
 <br/>
 
-[![Email](https://img.shields.io/badge/-Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:faizannasim59@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/faizannasim)
-[![GitHub](https://img.shields.io/badge/-GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/faizannasim)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=39FF14)](https://faizannasim.vercel.app)
+<a href="https://linkedin.com/in/faizannasim">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:faizannasim59@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/faizannasim">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://faizannasim.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
-<br/>
+---
 
-## 🚀 About Me
+## About Me
 
-```yaml
-role: Frontend Developer
-based_in: India
-focus: fast, accessible, api-driven web apps
-currently_building: billmate — invoice tool w/ pdf export + voice input
-currently_learning: node.js, express, dsa
-fun_fact: ships side projects faster than most people plan them
+I'm a developer focused on **AI Engineering**, with a background in frontend and full-stack development.
+
+My current interests are around:
+
+* 🤖 **AI Agents & Agentic Systems**
+* 🔌 **Model Context Protocol (MCP)**
+* 🧠 **LLM Applications & Tool Calling**
+* 🐍 **Python & FastAPI**
+* ⚡ **AI-powered APIs and backend systems**
+* ⚛️ **React for AI application interfaces**
+
+I enjoy building systems where AI can **reason, use tools, access data, and perform real actions** instead of simply generating text.
+
+---
+
+## What I'm Building
+
+### 🔌 MCP Servers
+
+Currently exploring **Model Context Protocol** and building MCP servers using **Python and FastMCP**.
+
+```text
+                    AI Application
+                          │
+                          ▼
+                    ┌───────────┐
+                    │ AI Agent  │
+                    └─────┬─────┘
+                          │
+                     MCP Protocol
+                          │
+                          ▼
+                  ┌───────────────┐
+                  │   MCP Server  │
+                  ├───────────────┤
+                  │    Tools      │
+                  │   Resources   │
+                  │    Prompts    │
+                  └───────┬───────┘
+                          │
+              ┌───────────┼───────────┐
+              ▼           ▼           ▼
+            APIs       Database     Services
 ```
 
-<br/>
+**Tech:** `Python` · `FastMCP` · `MCP` · `AI Agents` · `APIs`
 
-## 🛠️ Tech Stack
+I'm particularly interested in how MCP can give AI agents structured access to external tools, data, and services.
+
+---
+
+## AI Engineering
+
+```text
+AI Engineering
+│
+├── LLM Applications
+│   ├── LLM APIs
+│   ├── Prompt Engineering
+│   ├── Tool Calling
+│   └── Structured Outputs
+│
+├── AI Agents
+│   ├── Agent Workflows
+│   ├── Tool Usage
+│   ├── Context Management
+│   └── External Integrations
+│
+├── MCP
+│   ├── MCP Servers
+│   ├── Tools
+│   ├── Resources
+│   └── Prompts
+│
+└── AI Backend
+    ├── Python
+    ├── FastAPI
+    ├── REST APIs
+    └── Data / Services
+```
+
+---
+
+## Tech Stack
+
+### AI / Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express&theme=light"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/MCP-444444?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastMCP-444444?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI%20Agents-444444?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM%20APIs-444444?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST%20APIs-444444?style=flat-square"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css&theme=light"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=light"/>
+</p>
+
+---
+
+## Featured Projects
+
+### 🔌 MCP Server
+
+**Python · FastMCP · MCP · AI Agents**
+
+Building MCP servers that expose tools and resources to AI applications.
+
+**Focus:**
+`Tool Calling` · `MCP Architecture` · `AI Agents` · `External APIs`
+
+---
+
+### 🧾 Billmate
+
+**React · Tailwind · Python · FastAPI**
+
+AI-assisted invoice platform with:
+
+* PDF invoice generation
+* QR code generation
+* Voice input
+* API integration
+* Responsive interface
+
+[View Repository →](https://github.com/faizannasim/billmate)
+
+---
+
+### 🤖 Ask AI
+
+**React · Tailwind · Gemini API**
+
+AI chat application with real-time interaction and persistent conversation history.
+
+[View Repository →](https://github.com/faizannasim/ask-ai)
+
+---
+
+### 🏎️ F1Arena
+
+**React · Tailwind · REST APIs**
+
+Live Formula 1 dashboard consuming racing data through APIs.
+
+[View Repository →](https://github.com/faizannasim/f1arena)
+
+---
+
+## Currently Learning
+
+```text
+→ AI Agent Architecture
+→ Model Context Protocol
+→ FastMCP
+→ LLM Tool Calling
+→ RAG
+→ LLM Application Development
+→ Python Backend Development
+→ Node.js & Express
+→ Data Structures & Algorithms
+→ System Design
+```
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-**Frontend**
-<br/>
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=39FF14)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=39FF14)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0d0d0d?style=for-the-badge&logo=tailwindcss&logoColor=39FF14)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0d0d0d?style=for-the-badge&logo=framer&logoColor=39FF14)
+<img src="https://github-readme-stats.vercel.app/api?username=faizannasim&show_icons=true&hide_border=true&theme=default&include_all_commits=true" height="165"/>
 
-**Backend & Tools**
-<br/>
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=39FF14)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=39FF14)
-![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=39FF14)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=39FF14)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizannasim&layout=compact&hide_border=true&theme=default" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizannasim&theme=default&hide_border=true" width="70%"/>
 
 </div>
 
-<br/>
-
-## 💼 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚡ [billmate](https://github.com/faizannasim/billmate)
-Invoice platform with PDF export, QR codes, and voice input.
-<br/>`react` `tailwind` `web speech api`
-<br/>🏆 100/100 Lighthouse score
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 [ask-ai](https://github.com/faizannasim/ask-ai)
-Real-time AI chat with persistent conversation history.
-<br/>`react` `tailwind` `gemini api`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏎️ [f1arena](https://github.com/faizannasim/f1arena)
-Live F1 race dashboard powered by real-time data feeds.
-<br/>`react` `tailwind` `rest apis`
-<br/>📊 1000+ live data points
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [portfolio](https://github.com/faizannasim/portfolio)
-Personal portfolio with smooth, animated UI.
-<br/>`react` `tailwind` `framer motion`
-<br/>♿ 94 accessibility score
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📊 GitHub Stats
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=faizannasim&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=39FF14&icon_color=39FF14&text_color=c9c9c9&ring_color=39FF14" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizannasim&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=39FF14&text_color=c9c9c9" height="165"/>
+### Building AI systems that can do more than just generate text.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizannasim&theme=github-dark-blue&hide_border=true&background=0d0d0d&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="70%"/>
-
-<img src="https://github-readme-trophy.vercel.app/?username=faizannasim&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="90%"/>
-
-</div>
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizannasim&theme=react-dark&hide_border=true&bg_color=0d0d0d&color=39FF14&line=39FF14&point=ffffff" width="95%"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/faizannasim/faizannasim/output/github-contribution-grid-snake-dark.svg)
-
-<sub>⭐️ from <a href="https://github.com/faizannasim">faizannasim</a> — thanks for stopping by</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:0d0d0d&height=100&section=footer"/>
+**AI Engineering · Agents · MCP · Python · APIs**
 
 </div>
