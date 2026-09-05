@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/faizannasim">
+<a href="https://www.linkedin.com/in/faizan-nasim-2262a930a/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://faizannasim.vercel.app">
+<a href="https://www.linkedin.com/in/faizan-nasim-2262a930a/">
 <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
