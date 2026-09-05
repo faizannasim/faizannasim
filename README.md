@@ -1,128 +1,316 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Faizan%20Nasim&fontColor=00d9ff&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer%20%E2%86%92%20Exploring%20AI%20Engineering&descAlignY=58&descColor=b39ddb&descSize=16"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=00D9FF&background=00000000&center=true&vCenter=true&width=650&lines=React.js+%26+JavaScript+(ES6%2B);Building+with+LLMs+%2B+APIs;FastAPI+%2B+Python+%2B+REST;Currently+building+%E2%86%92+billmate" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=180&section=header&text=Faizan%20Nasim&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Exploring%20AI%20Engineering&descAlignY=65&descSize=16" width="100%"/>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/-Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:faizannasim59@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://linkedin.com/in/faizannasim)
-[![GitHub](https://img.shields.io/badge/-GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/faizannasim)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://faizannasim.vercel.app)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=555555&center=true&vCenter=true&width=700&height=50&lines=Frontend+Developer+%7C+React.js+%7C+Next.js;Exploring+AI+Engineering+%7C+LLMs+%7C+RAG;LangChain+%7C+LangGraph+%7C+MCP+%7C+Tool+Calling;Building+AI-powered+%26+modern+web+applications" />
+
+<br/><br/>
+
+<a href="mailto:faizannasim59@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/faizannasim">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/faizannasim">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://faizannasim.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
 <br/>
 
-## 🧠 About Me
+## 👋 About Me
 
-```yaml
-role: Frontend Developer, moving toward AI Engineering
-based_in: India
-focus: fast, accessible, api-driven web apps — now wiring in LLMs
-currently_building: billmate — invoice tool w/ pdf export + voice input
-currently_learning: node.js, express, dsa, LLM APIs & agent workflows
-goal: build products where good frontend meets useful AI
-```
+I'm a **Frontend Developer** who enjoys building clean, responsive and interactive web applications.
 
-<br/>
+Alongside frontend development, I'm increasingly interested in **AI Engineering** and building applications around LLMs.
 
-## ⚙️ Tech Stack
+Currently exploring:
+
+* 🤖 LLM Applications
+* 🔗 LangChain
+* 🧠 LangGraph
+* 🔌 Model Context Protocol (MCP)
+* 🛠️ Tool Calling
+* 📚 RAG
+* ✍️ Prompt Engineering
+* 🐍 Python
+
+My goal is to combine strong frontend development with AI capabilities to build applications that are not only visually polished, but also intelligent and useful.
+
+---
+
+## 🚀 What I Work With
 
 <div align="center">
 
-**Frontend**
-<br/>
-![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=00D9FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=00D9FF)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0f0c29?style=for-the-badge&logo=tailwindcss&logoColor=00D9FF)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0f0c29?style=for-the-badge&logo=framer&logoColor=00D9FF)
+### Frontend Development
 
-**Backend & AI**
-<br/>
-![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=00D9FF)
-![FastAPI](https://img.shields.io/badge/FastAPI-0f0c29?style=for-the-badge&logo=fastapi&logoColor=00D9FF)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-0f0c29?style=for-the-badge&logo=openai&logoColor=00D9FF)
-![Google Gemini](https://img.shields.io/badge/Gemini_API-0f0c29?style=for-the-badge&logo=googlegemini&logoColor=00D9FF)
-![SQL](https://img.shields.io/badge/SQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
-![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=00D9FF)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=light"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Responsive%20Web%20Design-444444?style=flat-square"/>
+<img src="https://img.shields.io/badge/API%20Integration-444444?style=flat-square"/>
+<img src="https://img.shields.io/badge/Framer%20Motion-444444?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-444444?style=flat-square"/>
+<img src="https://img.shields.io/badge/Bootstrap-444444?style=flat-square"/>
+
+<br/><br/>
+
+### AI Engineering
+
+<img src="https://skillicons.dev/icons?i=python&theme=light"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LLMs-444444?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-444444?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-444444?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-444444?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tool%20Calling-444444?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-444444?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-444444?style=flat-square"/>
+
+<br/><br/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light"/>
 
 </div>
 
-<br/>
+---
 
-## 💼 Featured Projects
+## 🧠 AI Engineering Journey
+
+```text
+AI Engineering
+│
+├── LLMs
+│   ├── LLM APIs
+│   ├── Prompt Engineering
+│   └── Structured Outputs
+│
+├── AI Applications
+│   ├── LangChain
+│   ├── LangGraph
+│   └── Agent Workflows
+│
+├── Agent Capabilities
+│   ├── Tool Calling
+│   ├── Function Calling
+│   └── External API Integration
+│
+├── Knowledge
+│   └── RAG
+│       ├── Embeddings
+│       ├── Retrieval
+│       └── Context Augmentation
+│
+└── Model Context Protocol
+    ├── MCP Servers
+    ├── Tools
+    ├── Resources
+    └── Prompts
+```
+
+---
+
+## 🔌 MCP & AI Agents
+
+Currently learning and building with **Model Context Protocol (MCP)** to understand how AI applications can interact with external tools, APIs and data.
+
+```text
+                    AI Application
+                         │
+                         ▼
+                    ┌─────────┐
+                    │   LLM   │
+                    └────┬────┘
+                         │
+                    Tool Calling
+                         │
+                         ▼
+                  ┌──────────────┐
+                  │  MCP Server  │
+                  ├──────────────┤
+                  │    Tools     │
+                  │  Resources   │
+                  │   Prompts    │
+                  └──────┬───────┘
+                         │
+             ┌───────────┼───────────┐
+             ▼           ▼           ▼
+           APIs       Database     Services
+```
+
+**Currently exploring:**
+`MCP` · `FastMCP` · `Tools` · `Tool Calling` · `AI Agents` · `Python`
+
+---
+
+## 💻 Featured Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### ⚡ [billmate](https://github.com/faizannasim/billmate)
-Invoice platform with PDF export, QR codes, and voice input.
-<br/>`react` `tailwind` `web speech api`
-<br/>🏆 100/100 Lighthouse score
+### 🤖 MCP Server
+
+**Python · FastMCP · MCP**
+
+Exploring MCP server development and how AI applications can interact with external tools and services.
+
+**Focus**
+
+`MCP` `Tools` `Resources` `AI Agents`
 
 </td>
-<td width="50%" valign="top">
 
-### 🤖 [ask-ai](https://github.com/faizannasim/ask-ai)
-Real-time AI chat app with persistent conversation history — my first step into LLM-powered products.
-<br/>`react` `tailwind` `gemini api`
+<td width="50%">
+
+### 🧾 Billmate
+
+**React · Tailwind · Web Speech API**
+
+Invoice platform with PDF generation, QR codes and voice input.
+
+**Focus**
+
+`React` `APIs` `Responsive UI`
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
 
-### 🏎️ [f1arena](https://github.com/faizannasim/f1arena)
-Live F1 race dashboard powered by real-time data feeds.
-<br/>`react` `tailwind` `rest apis`
-<br/>📊 1000+ live data points
+<tr>
+<td width="50%">
+
+### 🧠 Ask AI
+
+**React · Tailwind · Gemini API**
+
+AI chat application with real-time conversations and persistent history.
+
+**Focus**
+
+`LLM API` `React` `API Integration`
 
 </td>
-<td width="50%" valign="top">
 
-### 🌐 [portfolio](https://github.com/faizannasim/portfolio)
-Personal portfolio with smooth, animated UI.
-<br/>`react` `tailwind` `framer motion`
-<br/>♿ 94 accessibility score
+<td width="50%">
+
+### 🏎️ F1Arena
+
+**React · Tailwind · REST APIs**
+
+Interactive Formula 1 dashboard powered by racing data.
+
+**Focus**
+
+`REST APIs` `React` `Data`
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+```text
+HTML5
+CSS3
+JavaScript (ES6+)
+React.js
+Next.js
+Tailwind CSS
+Bootstrap
+Framer Motion
+Responsive Web Design
+API Integration
+```
+
+### AI Engineering
+
+```text
+Python
+LLMs
+LangChain
+LangGraph
+MCP
+FastMCP
+Tool Calling
+RAG
+Prompt Engineering
+AI Agents
+```
+
+### Developer Tools
+
+```text
+Git
+GitHub
+VS Code
+REST APIs
+```
+
+---
+
+## 📚 Currently Learning
+
+```text
+→ LangChain
+→ LangGraph
+→ MCP
+→ MCP Server Development
+→ Tool Calling
+→ RAG
+→ Prompt Engineering
+→ AI Agent Architecture
+→ LLM Application Development
+→ Python for AI Engineering
+```
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=faizannasim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00D9FF&icon_color=00D9FF&text_color=c9c9c9&ring_color=00D9FF" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizannasim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=00D9FF&text_color=c9c9c9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=faizannasim&show_icons=true&hide_border=true&theme=default&include_all_commits=true" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizannasim&theme=tokyonight&hide_border=true&background=0f0c29&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="70%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizannasim&layout=compact&hide_border=true&theme=default" height="165"/>
 
-<img src="https://github-readme-trophy.vercel.app/?username=faizannasim&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="90%"/>
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizannasim&theme=default&hide_border=true" width="70%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizannasim&theme=github-light&hide_border=true" width="90%"/>
 
 </div>
 
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizannasim&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=00D9FF&line=00D9FF&point=b39ddb" width="95%"/>
-</div>
-
-<br/>
+---
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/faizannasim/faizannasim/output/github-contribution-grid-snake-dark.svg)
+### Building interfaces today. Exploring intelligent systems for tomorrow.
 
-<sub>⭐️ from <a href="https://github.com/faizannasim">faizannasim</a> — thanks for stopping by</sub>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+**Frontend Development · AI Engineering · LLMs · MCP · AI Agents**
 
 </div>
