@@ -1,179 +1,174 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=180&section=header&text=Faizan%20Nasim&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20%7C%20Exploring%20AI%20Engineering&descAlignY=65&descSize=16" width="100%"/>
+# Faizan Nasim
+
+### Frontend Developer · Exploring AI Engineering
+
+Building modern, responsive web applications while exploring **LLMs, AI agents, MCP, and intelligent application development.**
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=555555&center=true&vCenter=true&width=700&height=50&lines=Frontend+Developer+%7C+React.js+%7C+Next.js;Exploring+AI+Engineering+%7C+LLMs+%7C+RAG;LangChain+%7C+LangGraph+%7C+MCP+%7C+Tool+Calling;Building+AI-powered+%26+modern+web+applications" />
-
-<br/><br/>
-
-<a href="mailto:faizannasim59@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
 <a href="https://linkedin.com/in/faizannasim">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
+<a href="mailto:faizannasim59@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
 <a href="https://github.com/faizannasim">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://faizannasim.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
 
 <br/>
 
-## 👋 About Me
+---
 
-I'm a **Frontend Developer** who enjoys building clean, responsive and interactive web applications.
+## About
 
-Alongside frontend development, I'm increasingly interested in **AI Engineering** and building applications around LLMs.
+I'm a **Frontend Developer** focused on building clean, responsive and interactive web experiences.
 
-Currently exploring:
+I'm also exploring **AI Engineering**, with a particular interest in how LLMs can interact with tools, data and applications.
 
-* 🤖 LLM Applications
-* 🔗 LangChain
-* 🧠 LangGraph
-* 🔌 Model Context Protocol (MCP)
-* 🛠️ Tool Calling
-* 📚 RAG
-* ✍️ Prompt Engineering
-* 🐍 Python
+Currently working with:
 
-My goal is to combine strong frontend development with AI capabilities to build applications that are not only visually polished, but also intelligent and useful.
+**Frontend**
+`HTML` · `CSS` · `JavaScript` · `React.js` · `Next.js` · `Tailwind CSS` · `Bootstrap` · `Framer Motion`
+
+**AI Engineering**
+`LLMs` · `LangChain` · `LangGraph` · `MCP` · `Tool Calling` · `RAG` · `Prompt Engineering` · `Python`
 
 ---
 
-## 🚀 What I Work With
+## Current Focus
 
-<div align="center">
+<table>
+<tr>
+<td width="25%" align="center">
 
-### Frontend Development
+### 🔌
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=light"/>
+**MCP**
 
-<br/><br/>
+Model Context Protocol
+MCP Servers & Tools
 
-<img src="https://img.shields.io/badge/Responsive%20Web%20Design-444444?style=flat-square"/>
-<img src="https://img.shields.io/badge/API%20Integration-444444?style=flat-square"/>
-<img src="https://img.shields.io/badge/Framer%20Motion-444444?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-444444?style=flat-square"/>
-<img src="https://img.shields.io/badge/Bootstrap-444444?style=flat-square"/>
+</td>
 
-<br/><br/>
+<td width="25%" align="center">
 
-### AI Engineering
+### 🔍
 
-<img src="https://skillicons.dev/icons?i=python&theme=light"/>
+**LangSmith**
 
-<br/><br/>
+Tracing
+Evaluation & Observability
 
-<img src="https://img.shields.io/badge/LLMs-444444?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangChain-444444?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangGraph-444444?style=flat-square"/>
-<img src="https://img.shields.io/badge/MCP-444444?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tool%20Calling-444444?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-444444?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-444444?style=flat-square"/>
+</td>
 
-<br/><br/>
+<td width="25%" align="center">
 
-### Tools
+### 🏗️
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light"/>
+**System Design**
 
-</div>
+HLD
+LLD & Architecture
+
+</td>
+
+<td width="25%" align="center">
+
+### 🧩
+
+**DSA**
+
+Problem Solving
+Algorithms & Data Structures
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 AI Engineering Journey
+## AI Engineering
 
 ```text
-AI Engineering
-│
-├── LLMs
-│   ├── LLM APIs
-│   ├── Prompt Engineering
-│   └── Structured Outputs
-│
-├── AI Applications
-│   ├── LangChain
-│   ├── LangGraph
-│   └── Agent Workflows
-│
-├── Agent Capabilities
-│   ├── Tool Calling
-│   ├── Function Calling
-│   └── External API Integration
-│
-├── Knowledge
-│   └── RAG
-│       ├── Embeddings
-│       ├── Retrieval
-│       └── Context Augmentation
-│
-└── Model Context Protocol
-    ├── MCP Servers
-    ├── Tools
-    ├── Resources
-    └── Prompts
+LLM
+ │
+ ├── Prompt Engineering
+ │
+ ├── Tool Calling
+ │
+ ├── RAG
+ │
+ └── AI Agents
+       │
+       ├── LangChain
+       ├── LangGraph
+       │
+       └── MCP
+            │
+            ├── Tools
+            ├── Resources
+            └── Prompts
 ```
+
+I'm particularly interested in **MCP and agentic systems**, and how they can connect LLMs with external tools, APIs and real-world data.
 
 ---
 
-## 🔌 MCP & AI Agents
+## MCP
 
-Currently learning and building with **Model Context Protocol (MCP)** to understand how AI applications can interact with external tools, APIs and data.
+### Model Context Protocol
+
+Currently learning and building with **MCP using Python and FastMCP**.
 
 ```text
-                    AI Application
-                         │
-                         ▼
-                    ┌─────────┐
-                    │   LLM   │
-                    └────┬────┘
-                         │
-                    Tool Calling
-                         │
-                         ▼
-                  ┌──────────────┐
-                  │  MCP Server  │
-                  ├──────────────┤
-                  │    Tools     │
-                  │  Resources   │
-                  │   Prompts    │
-                  └──────┬───────┘
-                         │
-             ┌───────────┼───────────┐
-             ▼           ▼           ▼
-           APIs       Database     Services
+                    ┌───────────────┐
+                    │   AI Agent    │
+                    └───────┬───────┘
+                            │
+                       MCP Protocol
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │  MCP Server   │
+                    ├───────────────┤
+                    │    Tools      │
+                    │   Resources   │
+                    │    Prompts    │
+                    └───────┬───────┘
+                            │
+              ┌─────────────┼─────────────┐
+              ▼             ▼             ▼
+            APIs         Database      Services
 ```
 
-**Currently exploring:**
-`MCP` · `FastMCP` · `Tools` · `Tool Calling` · `AI Agents` · `Python`
+**Exploring:** `MCP` · `FastMCP` · `Tools` · `Resources` · `AI Agents`
 
 ---
 
-## 💻 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 MCP Server
+### 🔌 MCP Server
 
 **Python · FastMCP · MCP**
 
-Exploring MCP server development and how AI applications can interact with external tools and services.
+Exploring MCP server development and building tools that can be used by AI applications.
 
-**Focus**
-
-`MCP` `Tools` `Resources` `AI Agents`
+`MCP` `Python` `FastMCP` `Tool Calling`
 
 </td>
 
@@ -183,11 +178,13 @@ Exploring MCP server development and how AI applications can interact with exter
 
 **React · Tailwind · Web Speech API**
 
-Invoice platform with PDF generation, QR codes and voice input.
-
-**Focus**
+Invoice platform focused on a clean workflow with PDF export, QR codes and voice input.
 
 `React` `APIs` `Responsive UI`
+
+<br/>
+
+<a href="https://github.com/faizannasim/billmate">View Repository →</a>
 
 </td>
 </tr>
@@ -195,15 +192,17 @@ Invoice platform with PDF generation, QR codes and voice input.
 <tr>
 <td width="50%">
 
-### 🧠 Ask AI
+### 🤖 Ask AI
 
 **React · Tailwind · Gemini API**
 
-AI chat application with real-time conversations and persistent history.
+AI chat application with real-time conversations and persistent chat history.
 
-**Focus**
+`React` `LLM API` `API Integration`
 
-`LLM API` `React` `API Integration`
+<br/>
+
+<a href="https://github.com/faizannasim/ask-ai">View Repository →</a>
 
 </td>
 
@@ -213,11 +212,13 @@ AI chat application with real-time conversations and persistent history.
 
 **React · Tailwind · REST APIs**
 
-Interactive Formula 1 dashboard powered by racing data.
+Interactive Formula 1 dashboard powered by live racing data.
 
-**Focus**
+`React` `REST APIs` `Data`
 
-`REST APIs` `React` `Data`
+<br/>
+
+<a href="https://github.com/faizannasim/f1arena">View Repository →</a>
 
 </td>
 </tr>
@@ -225,92 +226,85 @@ Interactive Formula 1 dashboard powered by racing data.
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
-
-```text
-HTML5
-CSS3
-JavaScript (ES6+)
-React.js
-Next.js
-Tailwind CSS
-Bootstrap
-Framer Motion
-Responsive Web Design
-API Integration
-```
-
-### AI Engineering
-
-```text
-Python
-LLMs
-LangChain
-LangGraph
-MCP
-FastMCP
-Tool Calling
-RAG
-Prompt Engineering
-AI Agents
-```
-
-### Developer Tools
-
-```text
-Git
-GitHub
-VS Code
-REST APIs
-```
-
----
-
-## 📚 Currently Learning
-
-```text
-→ LangChain
-→ LangGraph
-→ MCP
-→ MCP Server Development
-→ Tool Calling
-→ RAG
-→ Prompt Engineering
-→ AI Agent Architecture
-→ LLM Application Development
-→ Python for AI Engineering
-```
-
----
-
-## 📊 GitHub Stats
+## Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=faizannasim&show_icons=true&hide_border=true&theme=default&include_all_commits=true" height="165"/>
+### Frontend
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizannasim&layout=compact&hide_border=true&theme=default" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faizannasim&theme=default&hide_border=true" width="70%"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&theme=light"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizannasim&theme=github-light&hide_border=true" width="90%"/>
+<img src="https://img.shields.io/badge/Framer%20Motion-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Responsive%20Design-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/API%20Integration-111111?style=flat-square"/>
+
+<br/><br/>
+
+### AI Engineering
+
+<img src="https://skillicons.dev/icons?i=python&theme=light"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LLMs-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tool%20Calling-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-111111?style=flat-square"/>
+
+<br/><br/>
+
+### Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light"/>
 
 </div>
 
 ---
 
+## Learning Now
+
 <div align="center">
 
-### Building interfaces today. Exploring intelligent systems for tomorrow.
+|         Focus         | What I'm Exploring                             |
+| :-------------------: | :--------------------------------------------- |
+|       🔌 **MCP**      | MCP Servers · Tools · Resources · Architecture |
+|    🔍 **LangSmith**   | Tracing · Evaluation · Observability           |
+| 🏗️ **System Design** | HLD · LLD · Scalable Architecture              |
+|       🧩 **DSA**      | Data Structures · Algorithms · Problem Solving |
+
+</div>
+
+---
+
+## Developer Philosophy
+
+```text
+Build → Understand → Experiment → Improve
+
+Good UI makes a product easy to use.
+Good engineering makes it reliable.
+AI makes it capable.
+```
+
+---
+
+<div align="center">
+
+### Frontend today. AI Engineering in progress.
 
 <br/>
 
-**Frontend Development · AI Engineering · LLMs · MCP · AI Agents**
+<a href="https://github.com/faizannasim">
+<img src="https://img.shields.io/badge/Explore%20my%20work-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=70&section=footer" width="100%"/>
 
 </div>
