@@ -1,12 +1,12 @@
 <div align="center">
 
-# Faizan Nasim
-
-### Frontend Developer · Exploring AI Engineering
-
-Building modern, responsive web applications while exploring **LLMs, AI agents, MCP, and intelligent application development.**
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:111827,50:334155,100:6366F1&height=220&section=header&text=Faizan%20Nasim&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Frontend%20Developer%20%7C%20Exploring%20AI%20Engineering&descAlignY=66&descSize=17&descColor=E5E7EB" width="100%"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=750&height=55&lines=Frontend+Developer+%7C+React.js+%7C+Next.js;Exploring+AI+Engineering+%7C+LLMs+%7C+RAG;LangChain+%7C+LangGraph+%7C+MCP+%7C+Tool+Calling;Building+useful+products+with+code+%2B+AI" />
+
+<br/><br/>
 
 <a href="https://linkedin.com/in/faizannasim">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -17,11 +17,11 @@ Building modern, responsive web applications while exploring **LLMs, AI agents, 
 </a>
 &nbsp;
 <a href="https://github.com/faizannasim">
-<img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://faizannasim.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-4F46E5?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -30,203 +30,155 @@ Building modern, responsive web applications while exploring **LLMs, AI agents, 
 
 ---
 
-## About
+## `01 / About`
 
-I'm a **Frontend Developer** focused on building clean, responsive and interactive web experiences.
+I'm a **Frontend Developer** who enjoys turning ideas into clean, responsive and interactive web applications.
 
-I'm also exploring **AI Engineering**, with a particular interest in how LLMs can interact with tools, data and applications.
+Alongside frontend development, I'm exploring **AI Engineering**, especially the systems that make LLM applications useful beyond simple chat.
 
-Currently working with:
+My current interests include:
 
-**Frontend**
-`HTML` · `CSS` · `JavaScript` · `React.js` · `Next.js` · `Tailwind CSS` · `Bootstrap` · `Framer Motion`
-
-**AI Engineering**
 `LLMs` · `LangChain` · `LangGraph` · `MCP` · `Tool Calling` · `RAG` · `Prompt Engineering` · `Python`
+
+I like working at the intersection of **good interfaces and intelligent systems**.
 
 ---
 
-## Current Focus
+## `02 / Current Focus`
+
+<div align="center">
 
 <table>
 <tr>
-<td width="25%" align="center">
+
+<td align="center" width="25%">
 
 ### 🔌
 
 **MCP**
 
 Model Context Protocol
-MCP Servers & Tools
+
+MCP Servers
+Tools · Resources
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ### 🔍
 
 **LangSmith**
 
+LLM Observability
+
 Tracing
-Evaluation & Observability
+Evaluation
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ### 🏗️
 
 **System Design**
 
+Architecture
+
 HLD
-LLD & Architecture
+LLD
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
 ### 🧩
 
 **DSA**
 
 Problem Solving
-Algorithms & Data Structures
+
+Algorithms
+Data Structures
 
 </td>
+
 </tr>
 </table>
 
+</div>
+
 ---
 
-## AI Engineering
+## `03 / AI Engineering`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=6366F1&center=true&vCenter=true&width=650&height=40&lines=LLM+%E2%86%92+Tool+Calling+%E2%86%92+Agents+%E2%86%92+MCP;Learning+how+AI+systems+connect+models+with+real+tools" />
+
+</div>
+
+<br/>
 
 ```text
-LLM
- │
- ├── Prompt Engineering
- │
- ├── Tool Calling
- │
- ├── RAG
- │
- └── AI Agents
-       │
-       ├── LangChain
-       ├── LangGraph
-       │
-       └── MCP
-            │
-            ├── Tools
-            ├── Resources
-            └── Prompts
+                         ┌──────────────────┐
+                         │      LLM         │
+                         └────────┬─────────┘
+                                  │
+                             Tool Calling
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │    AI Agent      │
+                         └────────┬─────────┘
+                                  │
+                              MCP Protocol
+                                  │
+                                  ▼
+                    ┌─────────────────────────┐
+                    │       MCP Server        │
+                    ├─────────────────────────┤
+                    │  Tools  ·  Resources    │
+                    │       ·  Prompts        │
+                    └───────────┬─────────────┘
+                                │
+                  ┌─────────────┼─────────────┐
+                  ▼             ▼             ▼
+                APIs        Databases      Services
 ```
 
-I'm particularly interested in **MCP and agentic systems**, and how they can connect LLMs with external tools, APIs and real-world data.
+> Exploring how LLM-powered applications can use **tools, external APIs and real-world data** through structured interfaces.
 
 ---
 
-## MCP
+## `04 / MCP`
 
-### Model Context Protocol
+<div align="center">
 
-Currently learning and building with **MCP using Python and FastMCP**.
+### 🔌 Model Context Protocol
 
-```text
-                    ┌───────────────┐
-                    │   AI Agent    │
-                    └───────┬───────┘
-                            │
-                       MCP Protocol
-                            │
-                            ▼
-                    ┌───────────────┐
-                    │  MCP Server   │
-                    ├───────────────┤
-                    │    Tools      │
-                    │   Resources   │
-                    │    Prompts    │
-                    └───────┬───────┘
-                            │
-              ┌─────────────┼─────────────┐
-              ▼             ▼             ▼
-            APIs         Database      Services
-```
+<img src="https://img.shields.io/badge/MCP-6366F1?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastMCP-111827?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-**Exploring:** `MCP` · `FastMCP` · `Tools` · `Resources` · `AI Agents`
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=900&color=6B7280&center=true&vCenter=true&width=650&height=40&lines=Building+%E2%86%92+Testing+%E2%86%92+Understanding+MCP+Servers;Tools+%E2%86%92+Resources+%E2%86%92+Prompts+%E2%86%92+AI+Applications" />
+
+</div>
+
+### What I'm exploring
+
+* MCP server architecture
+* MCP tools and tool execution
+* Resources and prompts
+* Connecting AI applications with external services
+* Python + FastMCP
+* How MCP fits into agentic workflows
 
 ---
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔌 MCP Server
-
-**Python · FastMCP · MCP**
-
-Exploring MCP server development and building tools that can be used by AI applications.
-
-`MCP` `Python` `FastMCP` `Tool Calling`
-
-</td>
-
-<td width="50%">
-
-### 🧾 Billmate
-
-**React · Tailwind · Web Speech API**
-
-Invoice platform focused on a clean workflow with PDF export, QR codes and voice input.
-
-`React` `APIs` `Responsive UI`
-
-<br/>
-
-<a href="https://github.com/faizannasim/billmate">View Repository →</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🤖 Ask AI
-
-**React · Tailwind · Gemini API**
-
-AI chat application with real-time conversations and persistent chat history.
-
-`React` `LLM API` `API Integration`
-
-<br/>
-
-<a href="https://github.com/faizannasim/ask-ai">View Repository →</a>
-
-</td>
-
-<td width="50%">
-
-### 🏎️ F1Arena
-
-**React · Tailwind · REST APIs**
-
-Interactive Formula 1 dashboard powered by live racing data.
-
-`React` `REST APIs` `Data`
-
-<br/>
-
-<a href="https://github.com/faizannasim/f1arena">View Repository →</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## Tech Stack
+## `05 / Tech Stack`
 
 <div align="center">
 
@@ -236,9 +188,9 @@ Interactive Formula 1 dashboard powered by live racing data.
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Framer%20Motion-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/Responsive%20Design-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/API%20Integration-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/Framer%20Motion-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Responsive%20Web%20Design-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/API%20Integration-111827?style=flat-square"/>
 
 <br/><br/>
 
@@ -248,17 +200,17 @@ Interactive Formula 1 dashboard powered by live racing data.
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LLMs-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangChain-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangGraph-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/MCP-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/RAG-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tool%20Calling-111111?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangChain-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/MCP-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tool%20Calling-6366F1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-6366F1?style=flat-square"/>
 
 <br/><br/>
 
-### Developer Tools
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light"/>
 
@@ -266,45 +218,164 @@ Interactive Formula 1 dashboard powered by live racing data.
 
 ---
 
-## Learning Now
+## `06 / Featured Projects`
 
 <div align="center">
 
-|         Focus         | What I'm Exploring                             |
-| :-------------------: | :--------------------------------------------- |
-|       🔌 **MCP**      | MCP Servers · Tools · Resources · Architecture |
-|    🔍 **LangSmith**   | Tracing · Evaluation · Observability           |
-| 🏗️ **System Design** | HLD · LLD · Scalable Architecture              |
-|       🧩 **DSA**      | Data Structures · Algorithms · Problem Solving |
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔌 MCP Server
+
+**Python · FastMCP · MCP**
+
+Exploring MCP server development and building tools that allow AI applications to interact with external capabilities.
+
+**Focus**
+
+`MCP` · `Tools` · `Resources` · `Python`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧾 Billmate
+
+**React · Tailwind · Web Speech API**
+
+Invoice platform with PDF export, QR code generation and voice input.
+
+**Focus**
+
+`React` · `APIs` · `Responsive UI`
+
+<br/>
+
+<a href="https://github.com/faizannasim/billmate">
+View Repository →
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 Ask AI
+
+**React · Tailwind · Gemini API**
+
+AI chat application with real-time conversations and persistent history.
+
+**Focus**
+
+`LLM API` · `React` · `API Integration`
+
+<br/>
+
+<a href="https://github.com/faizannasim/ask-ai">
+View Repository →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏎️ F1Arena
+
+**React · Tailwind · REST APIs**
+
+Interactive Formula 1 dashboard powered by racing data.
+
+**Focus**
+
+`React` · `REST APIs` · `Data`
+
+<br/>
+
+<a href="https://github.com/faizannasim/f1arena">
+View Repository →
+</a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-## Developer Philosophy
+## `07 / Learning`
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+🔌 **MCP**
+
+MCP Servers · Tools · Architecture
+
+</td>
+
+<td align="center">
+
+🔍 **LangSmith**
+
+Tracing · Evaluation · Observability
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+🏗️ **System Design**
+
+HLD · LLD · Architecture
+
+</td>
+
+<td align="center">
+
+🧩 **DSA**
+
+Algorithms · Data Structures
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## `08 / Beyond Code`
 
 ```text
-Build → Understand → Experiment → Improve
+I care about three things:
 
-Good UI makes a product easy to use.
-Good engineering makes it reliable.
-AI makes it capable.
+01  Build interfaces people enjoy using.
+02  Understand the systems behind the product.
+03  Keep learning how AI can make those systems smarter.
 ```
 
 ---
 
 <div align="center">
 
-### Frontend today. AI Engineering in progress.
-
 <br/>
 
-<a href="https://github.com/faizannasim">
-<img src="https://img.shields.io/badge/Explore%20my%20work-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1500&color=6366F1&center=true&vCenter=true&width=600&height=40&lines=Frontend+Developer+today.;Exploring+AI+Engineering+every+day.;Building+%E2%80%A2+Learning+%E2%80%A2+Shipping" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=70&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:6366F1&height=80&section=footer" width="100%"/>
 
 </div>
